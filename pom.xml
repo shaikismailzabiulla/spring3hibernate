@@ -16,13 +16,13 @@
    <!-- use the following if you're not using a snapshot version. -->
    <repository>
      <id>central</id>
-     <name>maven-releases</name>
-     <url>http://18.60.52.254:8081/repository/maven-releases/</url>
+     <name>spring3-release</name>
+     <url>http://18.60.52.254:8081/repository/spring3-release/</url>
    </repository>
 	<snapshotRepository>
           <id>snapshots</id>
-          <name>maven-snapshots</name>
-          <url>http://18.60.52.254:8081/repository/maven-snapshots/</url>
+          <name>spring3-snapshot</name>
+          <url>http://18.60.52.254:8081/repository/spring3-release/</url>
         </snapshotRepository>
 	
  </distributionManagement>
