@@ -16,13 +16,13 @@
    <!-- use the following if you're not using a snapshot version. -->
    <repository>
      <id>central</id>
-     <name>central</name>
-     <url>http://192.168.0.37:8081/artifactory/ext-release-local</url>
+     <name>maven-releases</name>
+     <url>http://18.60.52.254:8081/repository/maven-releases/</url>
    </repository>
 	<snapshotRepository>
           <id>snapshots</id>
-          <name>libs-snapshot-local</name>
-          <url>http://192.168.0.37:8081/artifactory/ext-snapshot-local</url>
+          <name>maven-snapshots</name>
+          <url>http://18.60.52.254:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
 	
  </distributionManagement>
