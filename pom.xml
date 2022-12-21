@@ -20,7 +20,7 @@
      <url>http://18.60.52.254:8081/repository/spring3-release/</url>
    </repository>
 	<snapshotRepository>
-          <id>snapshots</id>
+          <id>nenux</id>
           <name>spring3-snapshot</name>
           <url>http://18.60.52.254:8081/repository/spring3-release/</url>
         </snapshotRepository>
